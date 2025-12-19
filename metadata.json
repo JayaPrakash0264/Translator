@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LingoFlow AI",
+  "description": "A high-performance AI translation application powered by Gemini, featuring real-time language detection, high-fidelity text-to-speech, and intuitive multi-language support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
